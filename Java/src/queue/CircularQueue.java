@@ -1,4 +1,4 @@
-package com.yuntao.practise.queue;
+package queue;
 
 public class CircularQueue {
     private int[] array;
